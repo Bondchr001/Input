@@ -15,7 +15,7 @@ c = float(c)
 
 # TODO: Calculate Fahrenheit
 # Formula: F = C × 9/5 + 32
-f = c * 1.8 + 32
+f = c * 9 / 5 + 32
 
 # TODO: Display the result
 # Show both the Celsius and Fahrenheit values
